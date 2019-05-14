@@ -1,0 +1,10 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is EEF9-147E
+
+ Directory of C:\Users\Luda\Desktop\MyProject
+
+2019-05-14  10:40 AM    <DIR>          .
+2019-05-14  10:40 AM    <DIR>          ..
+2019-05-14  10:40 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  84,885,151,744 bytes free
